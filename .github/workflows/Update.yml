@@ -58,7 +58,7 @@ jobs:
         rm -rf ./op-smartdns/luci-app-smartdns
         rm -rf ./theme/luci-theme-argon-18.06
         rm -rf ./theme/luci-theme-argon
-        rm -rf ./luci-app-argon-config
+        rm -rf ./theme/luci-app-argon-config
         rm -rf ./luci-app-oled
         rm -rf ./op-go-aliyundrive/*
         
